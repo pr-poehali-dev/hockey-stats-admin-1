@@ -226,7 +226,7 @@ export default function Index() {
         <div className="flex items-center justify-between mb-8 animate-fade-in">
           <div>
             <h1 className="text-5xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent mb-2">
-              Хоккейная Статистика
+              VMHL
             </h1>
             <p className="text-gray-400">Турнирная таблица</p>
           </div>
